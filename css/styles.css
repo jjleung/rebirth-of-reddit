@@ -1,0 +1,17 @@
+/* font-family: 'Lato', sans-serif;
+font-family: 'Oswald', sans-serif; */
+
+/* box-sizing: border-box; */
+
+* {
+  border: 1px black solid;
+}
+
+header {
+  text-align: center;
+}
+
+.guide {
+  /* list-style-type: none; */
+  display: inline-block;
+}
